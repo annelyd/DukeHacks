@@ -72,8 +72,12 @@ a:link {
     color: white;
 }
 
+a:visited {
+    color: white;
+}
+
 a:hover {
-    text-decoration-color: white;
+    color: rgb(150, 150, 150);
 }
 
 .item:hover {
